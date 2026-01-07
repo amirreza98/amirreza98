@@ -1,9 +1,6 @@
-## Hi there 👋
-
-<!--
-**amirreza98/amirreza98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Hi, I’m Amir 👋
+I’m a Full-Stack Software Engineer with a strong backend focus, building data-intensive, real-time web applications and scalable APIs. I care about production constraints: performance, reliability, clean architecture, and measurable impact.
+I have 5+ years of experience working across frontend, backend, and cloud deployment, and I’m currently based in Berlin, Germany.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
