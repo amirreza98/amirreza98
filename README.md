@@ -49,7 +49,11 @@ Processed 5K+ records with WebSockets and Node.js
 TypeScript, Node.js
 
 - How to reach me
+
 Email: amirreza.azemati@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/amirrezaazemati/
+
 Portfolio: https://azemati.netlify.app/
+
 GitHub: https://github.com/amirreza98
