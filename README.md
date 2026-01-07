@@ -4,12 +4,9 @@ I have 5+ years of experience working across frontend, backend, and cloud deploy
 
 - 🔭 I’m currently working on
 
-Building real-time dashboards and backend services using Node.js, TypeScript, WebSockets, and REST APIs
 Exploring AI-assisted features tied to real production workflows (validation, automation, anomaly detection)
 Improving system design skills around scalability, observability, and performance
-Preparing for mid-to-senior full-stack / backend-heavy roles in international product teams
 Recent focus areas:
-Real-time data processing and dashboards
 Authenticated admin panels and B2B tooling
 API design, data modeling, and backend ownership
 
