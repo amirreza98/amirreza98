@@ -13,28 +13,19 @@ Real-time data processing and dashboards
 Authenticated admin panels and B2B tooling
 API design, data modeling, and backend ownership
 
-- Tools & technologies I use
+- ⚒️ Tools & technologies I use
 
-Languages
-TypeScript, JavaScript, Python, SQL
+Languages: TypeScript, JavaScript, Python, SQL
 
-Frontend
+Frontend: React, Next.js, Vite, Tailwind CSS, HTML5, CSS3, GSAP, Three.js (for interactive/3D projects)
 
-React, Next.js, Vite, Tailwind CSS, HTML5, CSS3, GSAP, Three.js (for interactive/3D projects)
+Backend & APIs: Node.js, Express, REST APIs, GraphQL, WebSockets, Authentication, FastAPI
 
-Backend & APIs
+Cloud & DevOps: AWS (Lambda, DynamoDB), Docker, CI/CD, GitHub Actions
 
-Node.js, Express, REST APIs, GraphQL, WebSockets, Authentication, FastAPI
+Testing & Tooling: Jest, Postman, Git, GitHub, Figma
 
-Cloud & DevOps
-
-AWS (Lambda, DynamoDB), Docker, CI/CD, GitHub Actions
-
-Testing & Tooling
-
-Jest, Postman, Git, GitHub, Figma
-
-- Selected projects
+- 🖥️ Selected projects
 
 macOS-style Portfolio
 
@@ -61,7 +52,7 @@ Processed 5K+ records with WebSockets and Node.js
 
 TypeScript, Node.js
 
-- How to reach me
+- 🤝 How to reach me
 
 Email: amirreza.azemati@gmail.com
 
