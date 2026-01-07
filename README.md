@@ -1,4 +1,4 @@
-**Hi, I’m Amir 👋
+Hi, I’m Amir 👋
 I’m a Full-Stack Software Engineer with a strong backend focus, building data-intensive, real-time web applications and scalable APIs. I care about production constraints: performance, reliability, clean architecture, and measurable impact.
 I have 5+ years of experience working across frontend, backend, and cloud deployment, and I’m currently based in Berlin, Germany.
 
@@ -13,7 +13,7 @@ Real-time data processing and dashboards
 Authenticated admin panels and B2B tooling
 API design, data modeling, and backend ownership
 
-**Tools & technologies I use
+- Tools & technologies I use
 Languages
 TypeScript, JavaScript, Python, SQL
 Frontend
@@ -34,7 +34,7 @@ Jest, Postman
 Git, GitHub
 Figma
 
-**Selected projects
+- Selected projects
 macOS-style Portfolio
 Interactive portfolio with an integrated AI assistant
 React, TypeScript, Vite, Node.js
@@ -48,7 +48,7 @@ Real-Time Sensor Data Pipeline (ZISCO)
 Processed 5K+ records with WebSockets and Node.js
 TypeScript, Node.js
 
-**How to reach me
+- How to reach me
 Email: amirreza.azemati@gmail.com
 LinkedIn: https://www.linkedin.com/in/amirrezaazemati/
 Portfolio: https://azemati.netlify.app/
