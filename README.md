@@ -20,37 +20,19 @@ TypeScript, JavaScript, Python, SQL
 
 Frontend
 
-React, Next.js, Vite
-
-Tailwind CSS, HTML5, CSS3
-
-GSAP, Three.js (for interactive/3D projects)
+React, Next.js, Vite, Tailwind CSS, HTML5, CSS3, GSAP, Three.js (for interactive/3D projects)
 
 Backend & APIs
 
-Node.js, Express
-
-REST APIs, GraphQL
-
-WebSockets, Authentication
-
-FastAPI
+Node.js, Express, REST APIs, GraphQL, WebSockets, Authentication, FastAPI
 
 Cloud & DevOps
 
-AWS (Lambda, DynamoDB)
-
-Docker, CI/CD
-
-GitHub Actions
+AWS (Lambda, DynamoDB), Docker, CI/CD, GitHub Actions
 
 Testing & Tooling
 
-Jest, Postman
-
-Git, GitHub
-
-Figma
+Jest, Postman, Git, GitHub, Figma
 
 - Selected projects
 
